@@ -40,4 +40,6 @@ env/
 *.swp
 *.swo
 
+#other
+db.sqlite3
 
